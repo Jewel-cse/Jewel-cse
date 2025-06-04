@@ -9,18 +9,12 @@
 
 <!-- Links -->
 <div>
-    <!-- <a href="https://ibatulanand.vercel.app/">
-        <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=008eb7">
-    </a> -->
     <a href="https://www.linkedin.com/in/rana-md-jewel/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
     </a>
     <a href="mailto:md.jewel.cse@gmail.com">
         <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <!-- <a href="https://medium.com/@ibatulanand">
-        <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a> -->
     <a href="https://leetcode.com/ibatulanand/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     </a>
@@ -36,6 +30,7 @@
     <a href="https://github.com/Jewel-cse">
         <img align="right" src="https://github-stats-alpha.vercel.app/api?username=Jewel-cse&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
+    </br>
     <ul>
         <li>💼 A Software Engineer</li>
         <li>📚 Enjoy writing technical blogs</li>
