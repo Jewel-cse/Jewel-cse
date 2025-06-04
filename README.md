@@ -28,7 +28,7 @@
 <div>
     <h2>About Me:</h2>
     <a href="https://github.com/Jewel-cse">
-        <img align="right" src="https://github-stats-alpha.vercel.app/api?username=Jewel-cse&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+        <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Jewel-cse&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
     </br>
     <ul>
