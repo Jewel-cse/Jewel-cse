@@ -25,20 +25,33 @@
 <br/>
 
 <!-- Information -->
-<div>
-    <h2>About Me:</h2>
-    <a href="https://github.com/Jewel-cse">
-        <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Jewel-cse&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-    </a>
-    </br>
-    <ul>
-        <li>💼 A Software Engineer</li>
-        <li>📚 Enjoy writing technical blogs</li>
-        <li>❤️ Love doing Open-source Community work</li>
-    </ul>
-    
+<div style="width: 100%; max-width: 100%;">
+    <h2 style="color: #37BCF6; border-bottom: 2px solid #37BCF6; padding-bottom: 8px;">About Me</h2>
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 20px; width: 100%;">
+        <div style="flex: 1; min-width: 300px;">
+            <ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+                <li style="margin-bottom: 12px;">💼 <strong>Software Engineer</strong></li>
+                <li style="margin-bottom: 12px;">📚 <strong>Technical Writer</strong> - Enjoy sharing knowledge through blogs</li>
+                <li style="margin-bottom: 12px;">❤️ <strong>Open Source Contributor</strong> - Passionate about community work</li>
+                <li style="margin-bottom: 12px;">🚀 <strong>Continuous Learner</strong> - Always exploring new technologies</li>
+            </ul>
+        </div>
+        <div style="flex: 1; min-width: 300px;">
+            <a href="https://github.com/Jewel-cse" style="text-decoration: none;">
+                <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Jewel-cse&cc=22272e&tc=37BCF6&ic=fff&bc=0000" style="width: 100%; max-width: 100%; border-radius: 8px;"/>
+            </a>
+        </div>
+    </div>
 </div>
 <br/>
+<div style="width: 100%; text-align: center; margin-top: 20px;">
+    <a href="https://github.com/Jewel-cse?tab=repositories" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-My_Repositories-37BCF6?style=for-the-badge&logo=github" alt="Repositories" style="margin: 5px;"/>
+    </a>
+    <a href="https://github.com/Jewel-cse?tab=stars" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-My_Stars-37BCF6?style=for-the-badge&logo=github" alt="Stars" style="margin: 5px;"/>
+    </a>
+</div>
 
 <!-- Tech Stack Details -->
 <div>
