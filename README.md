@@ -4,7 +4,7 @@
 
 <h1>Hi there, I am Jewel Rana 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=1000&pause=50&color=#2268a7&width=600&height=45&lines=Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%20Backend+Developer+%F0%9F%91%A8%F0%9F%8F%BB;IAM+Engineer+%F0%9F%92%AA;Fullstack+Developer%F0%9F%9A%80;AI+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=1000&pause=50&color=2268a7&width=600&height=45&lines=Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%20Backend+Developer+%F0%9F%91%A8%F0%9F%8F%BB;IAM+Engineer+%F0%9F%92%AA;Fullstack+Developer%F0%9F%9A%80;AI+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 <br/>
 
 <!-- Links -->
