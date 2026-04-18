@@ -63,19 +63,27 @@
             </td>
             <td>
                 <a href="https://www.java.com/en/">
-                 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+                    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
                 </a>
                  &emsp;
                 <a href="https://www.javascript.com/en/">
-                <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
                  </a>
                 &emsp;
                 <a href="https://www.typescriptlang.org/">
-                <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4481EB?style=flat&logo=typescript&logoColor=white"/>
+                    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4481EB?style=flat&logo=typescript&logoColor=white"/>
                 </a>
                 &emsp;
                 <a href="https://www.python.org/">
-                <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&       logo=python&logoColor=ffdd54"/>
+                    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+                </a>
+                &emsp;
+                <a href="https://www.gnu.org/software/bash/">
+                    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+                </a>
+                &emsp;
+                <a href="https://www.sql.org/">
+                    <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
                 </a>
             </td>
         </tr>
